@@ -4,7 +4,7 @@ Facenama is an Iranian version of Facenama which was hacked in December 2014 by 
 
 This CVS file is show top password with more than 10 frequency amongst more than 116,000 records from leaked usernames and passwords.
 
-You can read Farsi version of analysis of the leaked data here: http://amin.technology/facenama
+You can read Farsi version of analysis of the leaked data here: https://aminsabeti.net/1393/11/what-are-the-most-popular-password-amongst-iranians/
 
 @AminSabeti
 
